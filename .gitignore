@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+historical_data.csv
+fear_greed_index.csv
+config.bat
+node_modules
